@@ -37,7 +37,9 @@ Prozessmanagement 2.0 bedeutet auch, neue Technologien zu nutzen. Das Whitepaper
 
 *   🕹️ **GovModeler**: Die Generierung von BPMN-Modellen mit generativer KI wird unter [GovModeler](https://github.com/DMachemehl/GovModeler) weiterentwickelt. Im Repo sind Videos abgelegt, die die Funktionalitäten demonstrieren.
 
-*   🎙️ **KI-Podcast**: Auf Basis des Whitepapers und der aktuellen Dokumentation zur Operationalisierung des Unternehmensprozessmodells UPM) wurde mithilfe von NotebookLLM ein Podcast erstellt. Reinhören lohnt sich!
+*   📻 **KI-Podcast**: Auf Basis des Whitepapers und der aktuellen Dokumentation zur Operationalisierung des Unternehmensprozessmodells UPM) wurde mithilfe von NotebookLLM ein Podcast erstellt. Reinhören lohnt sich!
+
+*   🎤 **Weniger tippen - mehr managen**: Unter diesem Titel gab es beim KGSt-Festival 2025 einen Vortrag. Folien und Video der Präsentation sind im Repo zu finden. Der Vortrag zeigt die Entwicklung des Govmodelers im Zeitablauf auf.
 
 ## 🤝 Community & Feedback
 
