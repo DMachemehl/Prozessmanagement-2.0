@@ -8,8 +8,6 @@ Dieses Projekt widmet sich der Frage, wie ein modernes, zukunftsfähiges Prozess
 
 Der Titel dieses Repositories ist Programm. So wie Software regelmäßig Updates benötigt, um sicher, effizient und funktional zu bleiben, benötigen auch unsere Verwaltungsstrukturen ein Upgrade.
 
-> *"Prozessmanagement 2.0 deutet darauf hin, dass das kommunale Prozessmanagement ein Update benötigt... ähnlich wie eine Software, die durch regelmäßige Updates optimiert wird."*
-
 Das hier verfügbare Whitepaper liefert den Bauplan für dieses Update. Es zeigt auf, wie wir von der reinen Verwaltung bestehender Abläufe hin zu einer strategischen, technologiegestützten Steuerung kommen.
 
 ## 📚 Das Fundament: 3 Kernbereiche des Whitepapers
