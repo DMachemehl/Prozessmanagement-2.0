@@ -2,7 +2,7 @@
 
 Willkommen im Repository **Prozessmanagement 2.0**.
 
-Dieses Projekt widmet sich der Frage, wie ein modernes, zukunftsfähiges Prozessmanagement in der öffentlichen Verwaltung aussehen muss. Die Basis und den theoretischen Unterbau für dieses Repository bildet das hier abgelegte Whitepaper **"Kommunales Prozessmanagement 2.0"** (Herausgeberin: Landeshauptstadt Stuttgart, April 2025).
+Dieses Projekt widmet sich der Frage, wie ein modernes, zukunftsfähiges Prozessmanagement in der öffentlichen Verwaltung aussehen muss. Die Basis und den theoretischen Unterbau für dieses Repository bildet das hier abgelegte Whitepaper **"Kommunales Prozessmanagement 2.0"** (April 2025).
 
 ## 🚀 Die Mission: Ein Update für die Verwaltung
 
@@ -14,22 +14,22 @@ Das hier verfügbare Whitepaper liefert den Bauplan für dieses Update. Es zeigt
 
 ## 📚 Das Fundament: 3 Kernbereiche des Whitepapers
 
-Das Whitepaper gliedert das "Update" in drei entscheidende Themenbereiche, die das Prozessmanagement neu definieren:
+Das Whitepaper gliedert sich in drei entscheidende Themenbereiche, die das Prozessmanagement neu definieren:
 
 ### 1. Das Kommunale Unternehmensprozessmodell 🏗️
 **Vom Flickenteppich zur Architektur.**
-Ein Prozessmanagement 2.0 benötigt eine saubere Struktur. Das Whitepaper beschreibt, wie auf Basis des bewährten **KGSt-Prozesskatalogs** ein ganzheitliches Unternehmensprozessmodell aufgebaut wird.
+Ein umfassendes und zukunftsfähiges Prozessmanagement benötigt eine saubere Struktur. Das Whitepaper beschreibt, wie auf Basis des bewährten **KGSt-Prozesskatalogs** ein ganzheitliches Unternehmensprozessmodell aufgebaut wird.
 *   **Der Mehrwert:** Es entsteht eine logische Landkarte, die nicht nur Prozesse ordnet, sondern als Rückgrat für Wissensmanagement und Digitalisierung dient.
 
-### 2. Die Ende-zu-Ende-Perspektive (E2E) 🔄
+### 2. Die Ende-zu-Ende-Perspektive (e2e) 🔄
 **Denken in Ergebnissen, nicht in Abteilungen.**
-Klassisches Prozessmanagement scheitert oft an Zuständigkeitsgrenzen. Dieses Konzept bricht Silos auf und verankert die **E2E-Betrachtung** tief in der DNA der Verwaltung.
-*   **Der Fokus:** Die Integration der Perspektiven **Kunde – IT – Organisation**. Prozesse werden konsequent vom *Startereignis* (Bürgeranliegen) bis zum *Endereignis* (Bescheid/Leistung) gedacht.
+Klassisches Prozessmanagement scheitert oft an Zuständigkeitsgrenzen. Dieses Konzept bricht Silos auf und verankert die **e2e-Betrachtung** tief in der DNA der Verwaltung.
+*   **Der Fokus:** Die Integration der Perspektiven **Kunde – Organisation - IT (KOI)**. Prozesse werden konsequent vom *Startereignis* (Bürgeranliegen) bis zum *Endereignis* (Bescheid/Leistung) gedacht.
 
 ### 3. Generative KI als Gamechanger 🤖
 **Vom Text zum Modell in Sekunden.**
-Prozessmanagement 2.0 bedeutet auch, neue Technologien zu nutzen. Das Whitepaper liefert faszinierende Einblicke, wie generative KI (z.B. ChatGPT) die Prozessarbeit revolutioniert.
-*   **Die Innovation:** Es wird gezeigt, wie KI nicht nur Prozessbeschreibungen verfasst, sondern direkt validen **BPMN 2.0 XML-Code** generiert, der sofort in Modellierungstools importiert werden kann. (Siehe Anlage 4 im PDF).
+Prozessmanagement 2.0 bedeutet auch, neue Technologien zu nutzen. Das Whitepaper liefert Einblicke, wie generative KI (z.B. ChatGPT) die Prozessarbeit revolutioniert.
+*   **Die Innovation:** Es wird gezeigt, wie KI nicht nur Prozessbeschreibungen verfasst, sondern direkt validen **BPMN 2.0 XML-Code** generiert, der sofort in Modellierungstools importiert werden kann.
 
 ---
 
@@ -37,11 +37,7 @@ Prozessmanagement 2.0 bedeutet auch, neue Technologien zu nutzen. Das Whitepaper
 
 *   📄 **Whitepaper_Kommunales Prozessmanagement 2.0.pdf**: Die vollständige Ausarbeitung mit allen Konzepten, Grafiken und Prompts.
 
-## 🎯 Warum du dich damit beschäftigen solltest
-
-Ob du **Prozessmanager:in**, **Digitalisierungsbeauftragte:r** oder **Civic-Tech-Entwickler:in** bist – dieses Repository und das zugrundeliegende Whitepaper laden dich ein, Prozessmanagement nicht als Bürokratie, sondern als Design-Disziplin zu verstehen.
-
-Nutze die Erkenntnisse aus dem Whitepaper, um:
+## 🎯 Nutze die Erkenntnisse aus dem Whitepaper, um:
 *   Deine eigene Prozessarchitektur zu hinterfragen.
 *   Echte Ende-zu-Ende-Digitalisierung voranzutreiben.
 *   Mit KI-Prompts für BPMN-Modelle zu experimentieren.
@@ -49,6 +45,4 @@ Nutze die Erkenntnisse aus dem Whitepaper, um:
 ## 🤝 Community & Feedback
 
 Prozessmanagement 2.0 lebt vom Austausch. Nutze die **Issues** oder **Discussions** hier auf GitHub, um Feedback zum Whitepaper zu geben oder deine eigenen Erfahrungen bei der Umsetzung dieser Konzepte zu teilen.
-
-Lass uns das Betriebssystem der Verwaltung gemeinsam updaten!
 ```
