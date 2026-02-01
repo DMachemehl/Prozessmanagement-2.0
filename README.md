@@ -35,7 +35,9 @@ Prozessmanagement 2.0 bedeutet auch, neue Technologien zu nutzen. Das Whitepaper
 
 *   📄 **Whitepaper_Kommunales Prozessmanagement 2.0.pdf**: Die vollständige Ausarbeitung mit allen Konzepten, Grafiken und Prompts.
 
-*   🕹️ **GovModeler**: Die Generierung von BPMN-Modellen mit generativer KI wird unter [GovModeler](https://github.com/DMachemehl/GovModeler) weiterentwickelt. Im Repositorie sind Videos abgelegt, die die Funktionen demonstrieren.
+*   🕹️ **GovModeler**: Die Generierung von BPMN-Modellen mit generativer KI wird unter [GovModeler](https://github.com/DMachemehl/GovModeler) weiterentwickelt. Im Repo sind Videos abgelegt, die die Funktionalitäten demonstrieren.
+
+*   🎙️ **KI-Podcast**: Auf Basis des Whitepapers und der aktuellen Dokumentation zur Operationalisierung des Unternehmensprozessmodells UPM) wurde mithilfe von NotebookLLM ein Podcast erstellt. Reinhören lohnt sich!
 
 ## 🤝 Community & Feedback
 
