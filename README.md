@@ -37,10 +37,7 @@ Prozessmanagement 2.0 bedeutet auch, neue Technologien zu nutzen. Das Whitepaper
 
 *   📄 **Whitepaper_Kommunales Prozessmanagement 2.0.pdf**: Die vollständige Ausarbeitung mit allen Konzepten, Grafiken und Prompts.
 
-## 🎯 Nutze die Erkenntnisse aus dem Whitepaper, um:
-*   Deine eigene Prozessarchitektur zu hinterfragen.
-*   Echte Ende-zu-Ende-Digitalisierung voranzutreiben.
-*   Mit KI-Prompts für BPMN-Modelle zu experimentieren.
+*   🕹️ **GovModeler**: Die Generierung von BPMN-Modellen mit generativer KI wird unter [GovModeler](https://github.com/DMachemehl/GovModeler) weiterentwickelt. Im Repositorie sind Videos abgelegt, die die Funktionen demonstrieren.
 
 ## 🤝 Community & Feedback
 
